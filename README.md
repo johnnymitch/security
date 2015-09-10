@@ -8,3 +8,6 @@
 
 ### Proxy / VPN
 - http://proxylist.hidemyass.com > Awesome list of free proxy servers (inc. HTTPS)
+
+### The hacking tools of Mr Robot
+- https://hackertarget.com/hacker-tools-mr-robot/
