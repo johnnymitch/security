@@ -12,7 +12,7 @@
 
 ## The hacking tools of Mr Robot
 - https://hackertarget.com/hacker-tools-mr-robot/
-- 
+
 ## Hardware
 - https://www.anonabox.com/#gsc.tab=0!/
 - https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/posts/1332704
