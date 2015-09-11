@@ -18,3 +18,4 @@
 - https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/posts/1332704
 - http://www.amazon.com/gp/product/B00T2U7R7I/ref=as_li_tl
 - http://www.aliexpress.com/item/Orange-Pi-PC-linux-and-android-mini-PC-Beyond-Raspberry-Pi-2/32448079125.html
+- **Raspberrypi display:** https://www.raspberrypi.org/blog/
