@@ -19,3 +19,4 @@
 - http://www.amazon.com/gp/product/B00T2U7R7I/ref=as_li_tl
 - http://www.aliexpress.com/item/Orange-Pi-PC-linux-and-android-mini-PC-Beyond-Raspberry-Pi-2/32448079125.html
 - **Raspberrypi display:** https://www.raspberrypi.org/blog/
+- http://fossbytes.com/pita-homemade-gadget-can-steal-encrypted-data-from-your-pc/
